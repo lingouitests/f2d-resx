@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
     <data name="reset_password_ok"><value>Good</value></data>
     <data name="reset_password_ok2"><value>Well</value></data>
     <data name="reset_password_ok3"><value>Perfect</value></data>
+  <data name="year_1">
+    <value><![CDATA[year]]></value>
+  </data>
+  <data name="book_2">
+    <value><![CDATA[book]]></value>
+  </data>
+  <data name="bear_3">
+    <value><![CDATA[bear]]></value>
+  </data>
+  <data name="five_4">
+    <value><![CDATA[five]]></value>
+  </data>
+  <data name="dog_5">
+    <value><![CDATA[dog]]></value>
+  </data>
 </root>
