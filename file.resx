@@ -1,27 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-    <data name="WelcomeMessage" xml:space="preserve">
-        <value>Welcome to our cool application!</value>
-    </data>
-  <data name="year_1">
-    <value><![CDATA[year]]></value>
-  </data>
-  <data name="monday_2">
-    <value><![CDATA[monday]]></value>
-  </data>
-  <data name="tuesday_3">
-    <value><![CDATA[tuesday]]></value>
-  </data>
-  <data name="bear_4">
-    <value><![CDATA[bear]]></value>
-  </data>
-  <data name="sheep_5">
-    <value><![CDATA[sheep]]></value>
-  </data>
-  <data name="giraffe_6">
-    <value><![CDATA[giraffe]]></value>
-  </data>
-  <data name="elephant_7">
-    <value><![CDATA[elephant]]></value>
-  </data>
+
 </root>
