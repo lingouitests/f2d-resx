@@ -3,16 +3,4 @@
     <data name="reset_password_ok"><value>Good</value></data>
     <data name="reset_password_ok2"><value>Well</value></data>
     <data name="reset_password_ok3"><value>Perfect</value></data>
-  <data name="year_1">
-    <value><![CDATA[year]]></value>
-  </data>
-  <data name="monday_2">
-    <value><![CDATA[monday]]></value>
-  </data>
-  <data name="tuesday_3">
-    <value><![CDATA[tuesday]]></value>
-  </data>
-  <data name="bear_4">
-    <value><![CDATA[bear]]></value>
-  </data>
 </root>
