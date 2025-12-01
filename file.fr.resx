@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <data name="year_1">
-    <value><![CDATA[annÃ©e]]></value>
+    <value><![CDATA[année]]></value>
   </data>
   <data name="monday_2">
     <value><![CDATA[lundi]]></value>
@@ -11,5 +11,14 @@
   </data>
   <data name="bear_4">
     <value><![CDATA[ours]]></value>
+  </data>
+  <data name="sheep_5">
+    <value><![CDATA[mouton]]></value>
+  </data>
+  <data name="giraffe_6">
+    <value><![CDATA[girafe]]></value>
+  </data>
+  <data name="elephant_7">
+    <value><![CDATA[éléphant]]></value>
   </data>
 </root>
