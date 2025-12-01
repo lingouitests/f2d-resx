@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>Welcome to our cool application!</value>
+    </data>
 </root>
