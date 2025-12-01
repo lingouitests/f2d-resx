@@ -3,4 +3,16 @@
     <data name="reset_password_ok"><value>Bien</value></data>
     <data name="reset_password_ok2"><value>Eh bien</value></data>
     <data name="reset_password_ok3"><value>Parfait</value></data>
+  <data name="year_1">
+    <value><![CDATA[annÃ©e]]></value>
+  </data>
+  <data name="monday_2">
+    <value><![CDATA[lundi]]></value>
+  </data>
+  <data name="tuesday_3">
+    <value><![CDATA[mardi]]></value>
+  </data>
+  <data name="bear_4">
+    <value><![CDATA[ours]]></value>
+  </data>
 </root>
