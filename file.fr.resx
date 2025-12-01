@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
+  <data name="year_1">
+    <value><![CDATA[année]]></value>
+  </data>
   <data name="monday_2">
     <value><![CDATA[lundi]]></value>
+  </data>
+  <data name="tuesday_3">
+    <value><![CDATA[mardi]]></value>
   </data>
 </root>
