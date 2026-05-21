@@ -21,4 +21,22 @@
   <data name="elephant_7">
     <value><![CDATA[éléphant]]></value>
   </data>
+  <data name="one_1">
+    <value><![CDATA[one]]></value>
+  </data>
+  <data name="two_1">
+    <value><![CDATA[two]]></value>
+  </data>
+  <data name="three_1">
+    <value><![CDATA[three]]></value>
+  </data>
+  <data name="four_2">
+    <value><![CDATA[four]]></value>
+  </data>
+  <data name="five_1">
+    <value><![CDATA[five]]></value>
+  </data>
+  <data name="six_2">
+    <value><![CDATA[six]]></value>
+  </data>
 </root>
